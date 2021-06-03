@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The fantasy of the passyon of the fox]</title>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A00547</idno><idno type="EEBO-CITATION">99845138</idno>
+  <idno type="VID">10023</idno>
+  <idno type="EEBO-PROQUEST">2240875508</idno>
+  <idno type="STC">STC 10685</idno>
+  <idno type="STC">ESTC S109491</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99845138e"/>
+            <note>(EEBO-TCP ; phase 2, no. A00547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10023)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 49:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The fantasy of the passyon of the fox]</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprynted by me Wynkyn de Worde,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>the. xvi. day of February. The yere of our lorde M.v.C.xxx. [1530]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Colophon: Thus is ended the fantasy of the passyon of the fox, lately of the town of Myre, a lytell besyde Shaftesbury in the dyoceses of Salysbury.</note>
+                  <note>In verse.</note>
+                  <note>Aiir begins: Amyddes Nouember that moneth mysty.</note>
+                  <note>Signatures: A-B.</note>
+                  <note>Imperfect: A1, title page, lacking (title supplied from colophon); print show-through; pages marked and stained.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Foxes --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>pfs </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>pfs</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:10023:1"/>
+            <pb facs="tcp:10023:1"/>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg>Myddes Nouember that moneth mysty</l>
+               <l>Whan the sonne full lowe his course dyd ron</l>
+               <l>As I suspecte in the sygne of Sagyttary</l>
+               <l>Without plesaunce to man / or confortacyon</l>
+               <l>Scantly that his bemes apered at none</l>
+               <l>The sely byrdes also without noyse makynge</l>
+               <l>On the bare bowes set / as halfe in sowne</l>
+               <l>For fere of blasty wynter so roughly delynge.</l>
+            </lg>
+            <lg>
+               <l>In fantasyes merueylous my mynde was pyght</l>
+               <l>For a fox whelpe that lacked alate</l>
+               <l>Though his maners wolde other / Currib{us} he hyght</l>
+               <l>Full pleasaunte in pastyme / pretendynge no debate</l>
+               <l>To no person lyuyng / but a cruell fate</l>
+               <l>Enuy hathe hym banyshed / I wote not whyther</l>
+               <l>I fere me of dethe / but god forbyd that</l>
+               <l>That suche myschaunce shulde vs deceyuer.</l>
+            </lg>
+            <lg>
+               <l>O good god nowe haue I lost my best</l>
+               <l>In his pastyme / whan he was set</l>
+               <l>Famylyerly obeyenge most and lest</l>
+               <l>His countenaunce full well dyd counterfet</l>
+               <l>Dyssemblers all / and his meet for to get</l>
+               <l>Full hyghe wolde he lepe his belles ryngynge</l>
+               <l>On a playne wall / where his meet was let</l>
+               <l>Twelue fote and more / so lustely was the sprynge</l>
+            </lg>
+            <lg>
+               <l>Forwarde and backwarde / ouer a staffe to lepe</l>
+               <l>Or in at an hope / brefly to dyscusse</l>
+               <l>Worthe as many apes / as may go or crepe</l>
+               <l>Marmosetes or Catynes that be in felde or house</l>
+               <l>And as craftely he wolde take a mouse</l>
+               <pb facs="tcp:10023:2"/>
+               <l>No catte more merueylous / nor craftyer to watche</l>
+               <l>His season lyke a fox / thou was my Curribus</l>
+               <l>That neuer dyd murther / by taste nor by smatche.</l>
+            </lg>
+            <lg>
+               <l>Thou neuer deuoured / pygge / gose / nor capon</l>
+               <l>I thynke thy nature was chaunged to humylyte</l>
+               <l>Vsage dothe merueylous thynges / loke well theron</l>
+               <l>Thefte nor murther / none was founde in the</l>
+               <l>Yet a comune prouerbe is in euery countre</l>
+               <l>Vsage by no crafte may chaunge natures course</l>
+               <l>And to vsage is gyuen a specyall propryte</l>
+               <l>Tho it amendeth not / yet shall it not be worse.</l>
+            </lg>
+            <lg>
+               <l>Let no man muse tho my fox was gentle</l>
+               <l>Contrary to his nature / for that dayly is sene</l>
+               <l>Some turne fro good to yll / and so do the people</l>
+               <l>And he is counted crafty / that can conuey clene</l>
+               <l>And he be taken tarde / all is not worthe a bene</l>
+               <l>Than shall he solfe full lowe / but my fox dothe not so</l>
+               <l>Kepe close and so wyll I / somwhat do I mene</l>
+               <l>Mystrust not the innocent / in what place that ye go.</l>
+            </lg>
+            <lg>
+               <l>Thus the day passed / and styll I was musynge</l>
+               <l>On my poore fox / but tythȳges myght I none haue</l>
+               <l>Ofte my eres dynned / as I herde the belles rynge</l>
+               <l>But fox sawe I none / alas what myght I craue</l>
+               <l>My sorowe to aslake / fortune I dyd depraue</l>
+               <l>That so turneth the dyes / and varyeth oure chaunce</l>
+               <l>Yet on the goddes I called / my poore fox to saue</l>
+               <l>Fro myschaunce &amp; murther &amp; other mysgouernaūce</l>
+            </lg>
+            <lg>
+               <l>Thus as the nyght approched / I wēte to my chāber</l>
+               <pb facs="tcp:10023:2"/>
+               <l>Purposynge by rest / to refresshe my brayne</l>
+               <l>But yet the fox in my mynde was euer</l>
+               <l>Many perelles castynge / I coude not refrayne</l>
+               <l>But yet aboute myd nyght / though it was w<seg rend="sup">t</seg> payne</l>
+               <l>I fell in a slombre / and sodeynly as me thought</l>
+               <l>A mayden apered / of whome I was fayne</l>
+               <l>Her merueylous aparell / was wonderly wrought.</l>
+            </lg>
+            <lg>
+               <l>In her vtter garment / were coloures full many</l>
+               <l>As me thought thousandes / and that varyable</l>
+               <l>Some reed some grene / some yelowe and motly</l>
+               <l>Me thought that her chere was very amyable<note place="margin">Lege oui<g ref="char:EOLunhyphen"/>diū. li. ij.</note>
+               </l>
+               <l>The coloures to my syght / many and chaungeable</l>
+               <l>Suche one I had not sene afore to apere</l>
+               <l>Excepte it were yris / that Ouyde in his fable</l>
+               <l>Counteth vnto Iono / his mayden &amp; his messangere.</l>
+            </lg>
+            <lg>
+               <l>But what that she was / me thought at that season</l>
+               <l>She toke me by the hande / and bade me to aryse</l>
+               <l>So forthe we wente / to a straunge regyon</l>
+               <l>In a parte of Asia / where as dwell Cymyryse</l>
+               <l>Nexte to Amazonia / who coude it well deuyse</l>
+               <l>Where was a mountayne merueylous hye to syght</l>
+               <l>Within that a caue of straunge edyfyse</l>
+               <l>Wherin she sayd / I shulde rest me that nyght.</l>
+            </lg>
+            <lg>
+               <l>The wonderfull habytacle that we founde there</l>
+               <l>It passeth my reason to declare playnly</l>
+               <l>Excepte of the poete I borowe in this manere</l>
+               <l>Than may I shewe it / thus was it truly</l>
+               <l>The slugy house of slepe / that resteth full surely</l>
+               <l>Where as no sone shone / nor beme dothe apere</l>
+               <pb facs="tcp:10023:3"/>
+               <l>But in maner as the owle lyght is contynually</l>
+               <l>Cocke nor dogge to trouble may be founde there.</l>
+            </lg>
+            <lg>
+               <l>Without blastynge or blowynge of wȳde troublous</l>
+               <l>Or ony noyse els / that myght be thought of man</l>
+               <l>But of a small water / of nature merueylous</l>
+               <l>
+                  <note place="margin">Lethes obliuio.</note>Lethes it is called / out of a stone it ranne</l>
+               <l>Pyrlynge on the grauell / and as I sawe than</l>
+               <l>The house without gates or dore it was also</l>
+               <l>No occasyon of troube / of beest ne of man</l>
+               <l>The way was full of papy / in as I dyd go.</l>
+            </lg>
+            <lg>
+               <l>And many herbes also / to slepe full necessary.</l>
+               <l>Whiche thynges be mynystred / acordynge to season</l>
+               <l>The braynes to refresshe / with labours that be wery</l>
+               <l>And ferther as I behelde in this mansyon</l>
+               <l>A bedstyd and a bed of merueylous facyon</l>
+               <l>In the myddes of the hall there sawe I standynge</l>
+               <l>In it lay and slepte / the kynge of that regyon</l>
+               <l>
+                  <note place="margin">Heben is a tymbre y<seg rend="sup">t</seg> is black naturalli</note>The bedstyd was of heben / most worthy to a kynge.</l>
+            </lg>
+            <lg>
+               <l>Aboute hym lay dremes / I am sure without nombre</l>
+               <l>As be the leues thycke vpon thetre</l>
+               <l>Or strawes in the haruest / or myddes of somer</l>
+               <l>Merueylous fourmes shewynge w<seg rend="sup">t</seg>out possybylyte</l>
+               <l>
+                  <note place="margin">Iris the rayne bowe.</note>But as we entred yris of her propryte</l>
+               <l>Lyghted all the house / and so wente to the kynge</l>
+               <l>She put of his dremes / and waked hym properly</l>
+               <l>Scantly myght he se / as to my thynkynge.</l>
+            </lg>
+            <lg>
+               <l>So slogyshe he was / that downe agayne he laye</l>
+               <l>As noyse had me made none at that season</l>
+               <pb facs="tcp:10023:3"/>
+               <l>She shoke hym by the chynne / &amp; fayre dyd praye</l>
+               <l>So he awaked / his heed enclyned downe</l>
+               <l>Full well he knewe her / and enquyre dyd he soone</l>
+               <l>What she ment / and what she dyd in that place</l>
+               <l>Fro Iuno my lady / her wyll loke it be done</l>
+               <l>As you wyll be contynued in her grace.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">yris doth speke.</note>O god of slepe / the refressher of nature</l>
+               <l>By quyet rest / auoydynge care and thought</l>
+               <l>There is nothynge lyuynge / but it is sure</l>
+               <l>Somtyme of rest / for this I haue the sought</l>
+               <l>The goddes Iuno wylleth / that thou do els nought</l>
+               <l>But to this person / thou make relacyon</l>
+               <l>Of this cruelty / that nowe alate is wrought</l>
+               <l>The murdre of this fox / and great exclamacyon.</l>
+            </lg>
+            <lg>
+               <l>Scantly these wordes that she had fully ended</l>
+               <l>Acordynge to the sentence that ye herde afore</l>
+               <l>Fro whens she came / she quyckly than ascended</l>
+               <l>Alone she lefte me / I was sory therfore</l>
+               <l>
+                  <note place="margin">
+                     <p>Morpheus Phobotor Phantasos be .iij. goddes of dremes. morphe{us} shew<g ref="char:EOLhyphen"/>eth onely the symyl<gap reason="illegible" resp="#murp" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> resonable cr<gap reason="illegible" resp="#murp" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>tures.</p>
+                     <p>Phobotor som<g ref="char:EOLunhyphen"/>tyme shewet<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> serpentes by<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>des / and <gap reason="illegible" resp="#murp" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> vnresonable Phantas<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> onely stones / houses / th<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> &amp; such thynge without lyfe.</p>
+                  </note>He called vnto hym Morpheus and Phobotore</l>
+               <l>Phantasos also / that merueylous were of personage</l>
+               <l>These thre ymonge all other / lay slepynge on y<seg rend="sup">e</seg> flore</l>
+               <l>Of natures dyuers / brothers of one age.</l>
+            </lg>
+            <lg>
+               <l>Morpheus sayd he / acordynge to kynde</l>
+               <l>Shewe thou this man after his petycyon</l>
+               <l>And Phobotor also let nought be lefte behynde</l>
+               <l>Phantasos be not slowe to make relacyon</l>
+               <l>Of suche thynge as longeth by propre inclynacyon</l>
+               <l>To thy nature / and than downe agayne</l>
+               <l>He layde hym to slepe as he was wont to done</l>
+               <pb facs="tcp:10023:4"/>
+               <l>I thought hym heuy heded / or els of feble brayne.</l>
+            </lg>
+            <lg>
+               <l>Morpheus me thought began his kynde anone</l>
+               <l>To shewe me the symylytude of many a man</l>
+               <l>Theyr crafty subtylte in ordre to set soone</l>
+               <l>Phobotor my fox in a chayne had than</l>
+               <l>My herte was lyght / and to hym than I ran</l>
+               <l>I groped for the fox / but none founde I there</l>
+               <l>Phantasos with a stafe loked fersly / and whan</l>
+               <l>I profered to come / he hade me come no nere.</l>
+            </lg>
+            <lg>
+               <l>Than sayd Morpheus / ones whan the fox escaped</l>
+               <l>And pleasure toke to renne ouer the strete</l>
+               <l>The curres hym bayed / and that a sowter wayted</l>
+               <l>Taken vp he was / and kepte without mete</l>
+               <l>Orenarde ye fasted / bycause ye coude not gete</l>
+               <l>your vytayle I am sure / or was it deuocyone</l>
+               <l>But how scaped ye Curribus that ye were not bete</l>
+               <l>Often for the maysters sake / cruelte is done.</l>
+            </lg>
+            <lg>
+               <l>Than was the fox by subtylte remoued</l>
+               <l>To a fortresse of enuy / the surer to be kepte</l>
+               <l>And thretened to dethe / pryuely was he houed</l>
+               <l>In an olde house / so lustely yet he lepte</l>
+               <l>By his belles men knewe whyther he was crepte</l>
+               <l>Delyuered than he was / as knowen it is</l>
+               <l>And he had so dyed / his dethe shulde haue be wepte</l>
+               <l>For nought myght be sayd that he had done amys.</l>
+            </lg>
+            <lg>
+               <l>But nexte whan he escaped / it was not to his ease</l>
+               <l>God knoweth in y<seg rend="sup">e</seg> towne fewe frendes dyd he fynde</l>
+               <l>Theyr pryue workynge / gate them small prayse</l>
+               <pb facs="tcp:10023:4"/>
+               <l>How and what maner they dyd / as can come to mȳde</l>
+               <l>I shall declare sayd Morpheus in y<seg rend="sup">t</seg> y<seg rend="sup">e</seg> cometh behȳde</l>
+               <l>The passyon of the fox well it may be named</l>
+               <l>Pyte it is to shewe / that people so vnkynde</l>
+               <l>Shulde hym so murther / y<seg rend="sup">t</seg> neuer yet was blamed.</l>
+            </lg>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="ejaculation">
+                        <head>¶Exclamatio inuidorum.</head>
+                        <lg>
+                           <l>NOw to dysclose</l>
+                           <l>How he brake lose</l>
+                           <l>ye may suppose</l>
+                        </lg>
+                        <lg>
+                           <l>Great noyse was made</l>
+                           <l>Now kyll now slaye</l>
+                           <l>That he awaye</l>
+                           <l>Scape not this daye</l>
+                        </lg>
+                        <lg>
+                           <l>They watched lane and slade</l>
+                           <l>with staffe clubbe and flayle</l>
+                           <l>They wolde assayle</l>
+                           <l>The sayd saunsfayle</l>
+                        </lg>
+                        <lg>
+                           <l>That Curribus</l>
+                           <l>The chauntry ape</l>
+                           <l>Shulde not them scape</l>
+                           <l>It is no iape</l>
+                        </lg>
+                        <lg>
+                           <l>To trouble vs</l>
+                           <l>That brybre that thefe</l>
+                           <l>With euyll prefe</l>
+                           <l>Shall lose his lyfe</l>
+                        </lg>
+                        <lg>
+                           <l>For his maysters sake</l>
+                           <l>Be it ryght or wronge</l>
+                           <l>Seynge vs ymonge</l>
+                           <l>He is out spronge</l>
+                        </lg>
+                        <lg>
+                           <l>An ende shall we make</l>
+                           <pb facs="tcp:10023:5"/>
+                           <l>Some cryed hange hym</l>
+                           <l>Some sayd saue hym</l>
+                           <l>Some wolde haue flayne hym</l>
+                        </lg>
+                        <lg>
+                           <l>To haue his skynne</l>
+                           <l>One aloude cryde</l>
+                           <l>Gyue me his hyde</l>
+                           <l>Whatsoeuer betyde</l>
+                        </lg>
+                        <lg>
+                           <l>It shall be myne</l>
+                           <l>Who wyll me controll</l>
+                           <l>To stoppe a hole</l>
+                           <l>By cockes soule</l>
+                        </lg>
+                        <lg>
+                           <l>In myne owne tayle</l>
+                           <l>The wynde to alaye</l>
+                           <l>That blast that waye</l>
+                           <l>No man say naye</l>
+                        </lg>
+                        <lg>
+                           <l>The fox to assayle</l>
+                           <l>Gyue me his belles</l>
+                           <l>I aske nought elles</l>
+                           <l>An other melles</l>
+                        </lg>
+                        <lg>
+                           <l>To haue his chayne</l>
+                           <l>Some without fayle</l>
+                           <l>Called for his tayle</l>
+                           <l>For his auayle</l>
+                        </lg>
+                        <lg>
+                           <l>He wolde take peyne</l>
+                           <l>Suche was the murmure</l>
+                           <l>Done with suche rygoure</l>
+                           <l>That to this houre</l>
+                        </lg>
+                        <lg>
+                           <l>Ye dyd neuer here</l>
+                           <l>Men that shulde haue wytte</l>
+                           <l>Make suche a fytte</l>
+                           <l>In playne despyte</l>
+                        </lg>
+                        <lg>
+                           <l>And neuer the nere</l>
+                           <pb facs="tcp:10023:5"/>
+                           <l>The poore fox whelpe</l>
+                           <l>As lackynge helpe</l>
+                           <l>Couched lowe and slepte</l>
+                        </lg>
+                        <lg>
+                           <l>To theyr thynkynge</l>
+                           <l>For fere of dethe</l>
+                           <l>Scantly toke brethe</l>
+                           <l>Yet vndernethe</l>
+                        </lg>
+                        <lg>
+                           <l>He loked slyrynge</l>
+                           <l>Full lyke a spye</l>
+                           <l>He cast his eye</l>
+                           <l>Ryght lothe to dye</l>
+                        </lg>
+                        <lg>
+                           <l>Chryst wot he was</l>
+                           <l>He stode in fere</l>
+                           <l>That so many were</l>
+                           <l>Crepte to that cornere</l>
+                        </lg>
+                        <lg>
+                           <l>To haue his case</l>
+                           <l>Forthe stepte a dame</l>
+                           <l>God gyue her shame</l>
+                           <l>Nameles for blame</l>
+                        </lg>
+                        <lg>
+                           <l>Yet shall she be</l>
+                           <l>Without pyte</l>
+                           <l>She cryed on hye</l>
+                           <l>Soone let hym dye</l>
+                        </lg>
+                        <lg>
+                           <l>Wheron muse ye</l>
+                           <l>Alecto of hell</l>
+                           <l>I may call her well<note place="margin">Thre fu<g ref="char:EOLhyphen"/>ryes in<g ref="char:EOLhyphen"/>fernalles Alecto. Megera. thes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>pho.</note>
+                           </l>
+                           <l>And there wyll she dwell</l>
+                        </lg>
+                        <lg>
+                           <l>Without goddes grace</l>
+                           <l>With fylthy Thesypho</l>
+                           <l>And Megera also</l>
+                           <l>The forthe I trowe</l>
+                        </lg>
+                        <lg>
+                           <l>She shalbe in shorte space</l>
+                           <pb facs="tcp:10023:6"/>
+                           <l>So in that hete</l>
+                           <l>A staffe full great</l>
+                           <l>One of the strete</l>
+                        </lg>
+                        <lg>
+                           <l>Toke than full soone</l>
+                           <l>Enuy out on the</l>
+                           <l>For thou without pyte</l>
+                           <l>Hast made hym to dye</l>
+                        </lg>
+                        <lg>
+                           <l>And now is he gone.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <lg>
+               <l>¶My body for fere was colder than yse</l>
+               <l>For the dethe of my fox / Morpheus made relacyon</l>
+               <l>The dolour intrynsecate vexte me ones or twyse</l>
+               <l>So sore that my wyttes were brought to confusyon</l>
+               <l>And to here also the rude exclamacyon</l>
+               <l>Made by enuy / vpon a beest gyltles</l>
+               <l>Alas my herte mourneth for pyte and compassyon</l>
+               <l>That reasonable people shulde be mercyles.</l>
+            </lg>
+            <lg>
+               <l>Now often it is sene the gyltles is blamed</l>
+               <l>And those that be gylty be taken with the best</l>
+               <l>Wronge maketh ryght oftentymes ashamed</l>
+               <l>And the greatest at pleasure deuoureth the lest</l>
+               <l>Veryte is glad to kepe hym in his nest</l>
+               <l>And he out of his nest a pere / he shal haue many a box</l>
+               <l>Who is stronger than wronge y<seg rend="sup">e</seg> suffereth none at rest</l>
+               <l>Chryst knoweth all this apereth in my fox.</l>
+            </lg>
+            <lg>
+               <l>Thus I dyd complayne on fortunes gouernaunce</l>
+               <l>That so vnstably had tourned awaye her face</l>
+               <l>Morpheus / phobotor / and phantasos by chaunce</l>
+               <l>A roll they vnrolled in whiche moche wrytynge was</l>
+               <l>They bade me rede it / so standynge in that place</l>
+               <pb facs="tcp:10023:6"/>
+               <l>Me thought it shulde be the foxes testament</l>
+               <l>The letter was straunge that I myght it scace</l>
+               <l>Rede it or vnderstande it / but this was the intent.</l>
+            </lg>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="testament">
+                        <head>¶The testament.</head>
+                        <l>
+                           <seg rend="decorInit">T</seg>He fyftene kalendes of Nouember mysty</l>
+                        <l>In the name of the kyte / crowe / and py</l>
+                        <l>I Curribus of Mere dyoceses of Sarum</l>
+                        <l>Of subtyll mynde and wyl condo testamētū</l>
+                        <l>Bycause that my bones may be at rest</l>
+                        <l>No iniury pretende to man woman nor beest</l>
+                        <l>The flesshe of my carcas bycause it is fayre</l>
+                        <l>I byquethe frely to byrdes of the ayre</l>
+                        <l>That they conuey it aboue the cloudes blake</l>
+                        <l>My bones as ryght is let the erthe take</l>
+                        <l>My maysters of the chauntry shall haue my skyne</l>
+                        <l>Gray amyses to make whan they prebendes wynne</l>
+                        <l>Myne eyes bryght I wolde blynde men had</l>
+                        <l>Myne eres to the defe to make them glad</l>
+                        <l>My tongue to those whose tongue is nought</l>
+                        <l>Tho it belonge it neuer lye wrought</l>
+                        <l>The longe heres of my berde to the glasyer</l>
+                        <l>My tethe to burnysshe to the boke bynder</l>
+                        <l>My nose to the vnwyse that can not make a ly</l>
+                        <l>My fete to ordre spyces to the potycary</l>
+                        <l>My lyuer and my longes are medycynable</l>
+                        <l>Take them who wyll I am agreable</l>
+                        <l>My besom tayle I wolde some fole had</l>
+                        <l>That thynketh hymselfe manly or sad</l>
+                        <l>My coler so propre decked with belles</l>
+                        <l>The most fole of the towne shall haue and no man els</l>
+                        <pb facs="tcp:10023:7"/>
+                        <l>My chayne to small it is ywys</l>
+                        <l>To serue for theues that do amys</l>
+                        <l>These longed to my carkas naturall</l>
+                        <l>yet other there be that passeth them all</l>
+                        <l>My name ywys tho it be rude</l>
+                        <l>I byquethe certes to ingratytude</l>
+                        <l>My slyrynge chere to euery dyssembler</l>
+                        <l>My grynynge and laughynge to them shalbe propre</l>
+                        <l>My slyes and wyles vnto the weuer</l>
+                        <l>My flaterynge also to the bruer</l>
+                        <l>My obedyens to euery good wyfe</l>
+                        <l>My fast holdynge to hym that wyll make stryfe</l>
+                        <l>My lepes and skyppes of great quycknes</l>
+                        <l>I gyue to seruauntes in theyr busynes</l>
+                        <l>More is to say but my dethe is to nye</l>
+                        <l>Ouer me standeth the staffe without mercy.</l>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <lg>
+               <l>¶Thus as I behelde my face waxed pale</l>
+               <l>To thynke on vnkyndnes it greued me sore</l>
+               <l>Than began Morpheus to shewe a newe tale</l>
+               <l>And bade me retourne fro whens I came before</l>
+               <l>Than forsoke me Phantasos and Phobatore</l>
+               <l>Thus alone was I in merueylous musynge</l>
+               <l>I knewe not whiche way to go out of the doore</l>
+               <l>I layde me to rest full nye to theyr kynge.</l>
+            </lg>
+            <lg>
+               <l>Vntyll the mornynge the cocke began to synge</l>
+               <l>Full ferre of it was / but I folowed the sowne</l>
+               <l>Tyll I came to a gate all whyte shynynge</l>
+               <l>Of yuery were the postes / and there sate I downe</l>
+               <l>I began to rowse / to stretche / and to frowne</l>
+               <l>Me thought (the nyght past) I called to mynde</l>
+               <pb facs="tcp:10023:7"/>
+               <l>My vysyons merueylous / y<seg rend="sup">e</seg> vnkyndenes of y<seg rend="sup">e</seg> towne</l>
+               <l>Alas than thought I / how shulde I my fox fynde.</l>
+            </lg>
+            <lg>
+               <l>I mused on my dremes whyther they were trewe</l>
+               <l>The tales and tokens I had well in mynde</l>
+               <l>Yet thought I them but vanytes and tryfles newe</l>
+               <l>I counted no person that a man shulde fynde</l>
+               <l>Without cause gyuynge that wolde be so vnkynde</l>
+               <l>So at that season I set it at lytell pryce</l>
+               <l>I went to the churche / my conscyence to vnbynde</l>
+               <l>My duty to be doone / there sayd I my seruyce.</l>
+            </lg>
+            <lg>
+               <l>Than fro the churche returnynge agayne</l>
+               <l>To me were brought tydynges full merueylous</l>
+               <l>How that in the towne Curribus was slayne</l>
+               <l>His belles away taken / and layde before the house</l>
+               <l>Alas sayd I than these people euryouse</l>
+               <l>Hathe hym slayne / as Morpheus shewed afore</l>
+               <l>Ha enuy enuy this dethe dolorouse</l>
+               <l>Is comen of the / cursed be thou therfore.</l>
+            </lg>
+            <lg>
+               <l>My lust was no lenger this talkynge to here</l>
+               <l>But caused a chylde to brynge hym in</l>
+               <l>Than renewed my dolour / so grysely was his chere</l>
+               <l>His lyppes shrunken / out of his mouthe hangynge</l>
+               <l>Full longe dyd his tongue / alacke a pyteous thynge</l>
+               <l>So sodenly chaunged fro myrthe and iolyte</l>
+               <l>Fro pleasure to dysplesure / I thynke no mā lyuynge</l>
+               <l>Coude not but wepe / recordynge the cruelte.</l>
+            </lg>
+            <lg>
+               <l>O enuy enuy / to longe hast thou regned</l>
+               <l>For in the serpent haddest thou begynynge</l>
+               <pb facs="tcp:10023:8"/>
+               <l>Agaynst Eue thou began <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Adam thou op<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>Thou caused them to lose Paradyse <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And Cayn thou induced to myschefe and brawlynge</l>
+               <l>So slewe he Abell his brother full dere.</l>
+               <l>And yet thou arte busy thy vnthryfty sede sowynge.</l>
+               <l>Bytwene man and man moche myschefe y<seg rend="sup">u</seg> dose here.</l>
+            </lg>
+            <lg>
+               <l>Who caused Iacobs sones Ioseph to sell</l>
+               <l>To the Ismelytes / but thy prouocacyon</l>
+               <l>Who betrayed chryste / how saythe the gospell</l>
+               <l>None but thou enuy / cursed be thy season</l>
+               <l>Innumerable myschefe by the is doone</l>
+               <l>Who that in bokes wyll rede / shall fynde it playnly</l>
+               <l>That thou hast destroyed cytee / borowe / and towne</l>
+               <l>Thou hast peruerted good men vnto thy foly.</l>
+            </lg>
+            <lg>
+               <l>Than I conclude / of the all this dothe sprynge</l>
+               <l>God it amende / god sende vs suche grace</l>
+               <l>Enuy to exyle / and all that with hym holdeth</l>
+               <l>Charyte god sende vs / in this and euery place</l>
+               <l>Plenty / myrthe / &amp; equyte / y<seg rend="sup">t</seg> they may come in place</l>
+               <l>The cloudy mystes of wronge shall perysshe then</l>
+               <l>Sapiencia patris / all malyce shall deface</l>
+               <l>Now that it may so be / saye we all Amen.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶Thus is ended the fantasy of the passyon of y<seg rend="sup">e</seg> fox / lately of the towne of Myre / a lytell be<g ref="char:EOLhyphen"/>syde Shaftesbury in the dyoceses of Salysbury. Imprynted by me Wynkyn de worde y<seg rend="sup">e</seg> .xvi. day of February. The yere of our lorde M.v.C.xxx.</p>
+            <pb facs="tcp:10023:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
